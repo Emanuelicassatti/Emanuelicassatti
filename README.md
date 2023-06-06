@@ -15,17 +15,7 @@ Mi objetivo principal es poder vivir de mi pasión, que es la programación. Bus
 ¿Qué tecnologías utilizo?
 Mis principales tecnologías y herramientas son:
 
-JavaScript
-Node.js
-Express.js
-React.js
-Redux
-Redux Toolkit
-PostgreSQL
-Sequelize
-Git
-HTML
-CSS
+JavaScript | NodeJs | Express | React | Redux | Redux Toolkit | PostgreSQL | Sequelize | HTML | CSS
 
 Estas tecnologías me permiten construir aplicaciones web modernas y escalables, brindando una excelente experiencia de usuario. Estoy emocionado por seguir explorando nuevas tecnologías y desafíos en el campo de la programación. Si tienes algún proyecto o oportunidad en la que pueda colaborar, no dudes en contactarme. ¡Estoy listo para sumarme a tu equipo y hacer realidad tus ideas!
 
